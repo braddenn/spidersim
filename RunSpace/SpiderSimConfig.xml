@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : ssconfig.xml
+    Author     : braddenn 7 Sept, 2014
+    Description: Configuration of SpiderSim
+-->
+<Config>
+    <NumberOfPlays>1000</NumberOfPlays>
+    <!-- following is yes or not yes -->
+    <Randomize>yes</Randomize>
+    <LogFile>SpiderSim.log</LogFile>
+    <OutputFileName>SpiderSim.txt</OutputFileName>
+    
+    <!-- following are 'on' or not 'on' -->
+    <Debug>off</Debug>
+    <LogColumns>off</LogColumns>
+    <LogChild>off</LogChild>
+    <AttachMax>3</AttachMax>
+    <ReadDeck>off</ReadDeck>
+    
+</Config>
+

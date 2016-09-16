@@ -1,0 +1,3005 @@
+Sat Aug 06 21:53:25 PDT 2016
+end of RunSim Constructor.
+Play 1000 times with a random deck
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6932 Wins and 2776 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 3 Wins and 20 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8551 Wins and 1225 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9937 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6675 Wins and 3162 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 0 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8898 Wins and 506 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 4 Losses. #children is 4
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9884 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 24 Losses. #children is 24
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 935 Wins and 8800 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7896 Wins and 1911 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9798 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9391 Wins and 439 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 14 Losses. #children is 14
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9875 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9914 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1134 Wins and 8549 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 64 Wins and 4139 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 64 Losses. #children is 64
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9490 Wins and 145 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 10 Losses. #children is 10
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 236 Losses. #children is 236
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1 Wins and 4332 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8517 Wins and 1283 Losses. #children is 10007
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 8 Losses. #children is 8
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 156 Wins and 9446 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 4 Losses. #children is 4
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 202 Losses. #children is 202
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9773 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2874 Wins and 6851 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9865 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 5 Losses. #children is 5
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9948 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7663 Wins and 1553 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9925 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1933 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 32 Losses. #children is 32
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9920 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1 Wins and 9865 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9757 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 3781 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9624 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9852 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6 Wins and 61 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 3806 Wins and 5945 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 12 Losses. #children is 12
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8754 Wins and 191 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 370 Losses. #children is 370
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 162 Losses. #children is 162
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9638 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5914 Wins and 3777 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8438 Losses. #children is 10005
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 1 Losses. #children is 1
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9092 Wins and 730 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9976 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8013 Wins and 1657 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 4 Losses. #children is 4
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 16 Losses. #children is 16
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8087 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9902 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9885 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9893 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2485 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1 Wins and 9221 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4573 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 768 Wins and 9159 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9797 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 4 Losses. #children is 4
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4820 Wins and 5092 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9905 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4383 Wins and 5329 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 28 Losses. #children is 28
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 2006 Losses. #children is 2006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9965 Losses. #children is 10007
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 49 Losses. #children is 49
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1 Wins and 39 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9852 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2 Wins and 2442 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 25 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 22 Losses. #children is 22
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9809 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4288 Wins and 5517 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1414 Wins and 8434 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6998 Wins and 1371 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9941 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 916 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 18 Losses. #children is 18
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8877 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9929 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 14 Losses. #children is 14
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9880 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9505 Wins and 139 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9807 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9831 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 6 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9743 Losses. #children is 10004
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 48 Losses. #children is 48
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7923 Wins and 1763 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 3055 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 662 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9826 Losses. #children is 10005
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 4 Losses. #children is 4
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7714 Wins and 2106 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 7789 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9771 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 37 Losses. #children is 37
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9883 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 68 Losses. #children is 68
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 25 Losses. #children is 25
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9906 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9621 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9799 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 7714 Losses. #children is 10004
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 18 Losses. #children is 18
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7687 Wins and 2154 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 115 Losses. #children is 115
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8754 Wins and 794 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9820 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9873 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8 Wins and 3939 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8033 Wins and 1883 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9805 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9883 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9795 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 0 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1 Wins and 8032 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9829 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9506 Wins and 213 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9823 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4561 Wins and 5144 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 14 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 3455 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9844 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 647 Losses. #children is 647
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2859 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 2166 Losses. #children is 2166
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1290 Wins and 8379 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 12 Losses. #children is 12
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9947 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5711 Wins and 4009 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9768 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 144 Wins and 9543 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1302 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9683 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7252 Wins and 2684 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8025 Wins and 1586 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9192 Wins and 126 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 153 Losses. #children is 153
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 178 Losses. #children is 178
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 22 Losses. #children is 22
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 3 Wins and 9690 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 6 Losses. #children is 6
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9781 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9722 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 8 Losses. #children is 8
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 504 Losses. #children is 504
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8534 Wins and 1070 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 6184 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5185 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4266 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 450 Wins and 2129 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 1880 Losses. #children is 1880
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 3135 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8133 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 388 Losses. #children is 388
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9887 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 62 Losses. #children is 62
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4182 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 1760 Losses. #children is 1760
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 140 Losses. #children is 140
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 33 Wins and 1924 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2115 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9531 Wins and 376 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5649 Wins and 4156 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1462 Wins and 2039 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 7698 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2951 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9817 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7895 Wins and 1764 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9819 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 20 Wins and 9635 Losses. #children is 10010
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 4 Losses. #children is 4
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 6 Losses. #children is 6
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2 Wins and 3013 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4407 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5015 Wins and 4835 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6785 Wins and 3064 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4793 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9457 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 3331 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 720 Losses. #children is 720
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9043 Wins and 842 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4572 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 180 Wins and 62 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 27 Losses. #children is 27
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 4 Losses. #children is 4
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 214 Losses. #children is 214
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1 Wins and 9693 Losses. #children is 10004
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 6 Losses. #children is 6
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9722 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9841 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9072 Wins and 591 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 2 Losses. #children is 2
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 80 Losses. #children is 80
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8689 Wins and 1108 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2 Wins and 9824 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 505 Wins and 13 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9904 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2307 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8596 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 705 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6206 Wins and 3553 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 22 Losses. #children is 22
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 2 Losses. #children is 2
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5789 Wins and 3772 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9719 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9877 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2873 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8056 Wins and 1331 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9878 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9821 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 30 Losses. #children is 30
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8385 Wins and 1305 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4334 Losses. #children is 10005
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 1032 Losses. #children is 1032
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9921 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2310 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1841 Wins and 7831 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8197 Wins and 1391 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5071 Wins and 4643 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 20 Losses. #children is 20
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4319 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8265 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 858 Losses. #children is 858
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9832 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 3251 Wins and 6424 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4251 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9885 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 92 Losses. #children is 92
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 32 Losses. #children is 32
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 1149 Losses. #children is 1149
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6117 Wins and 77 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 552 Wins and 5664 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 5 Losses. #children is 5
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2436 Wins and 7373 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8428 Wins and 1343 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9913 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 3444 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9943 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9940 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9811 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9670 Losses. #children is 10010
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2856 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 10 Losses. #children is 10
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1 Wins and 9705 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6939 Wins and 2731 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4598 Wins and 4918 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1474 Wins and 8057 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 223 Wins and 9622 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 35 Losses. #children is 35
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 18 Losses. #children is 18
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9778 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 3841 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4470 Wins and 5175 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 12 Losses. #children is 12
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 210 Losses. #children is 210
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4995 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5248 Wins and 4607 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8380 Wins and 1347 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 16 Losses. #children is 16
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9829 Losses. #children is 10005
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 2 Losses. #children is 2
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9966 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4946 Wins and 4892 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9713 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 3276 Wins and 6589 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9716 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7929 Wins and 1943 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6 Wins and 9667 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6759 Wins and 2986 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 941 Wins and 3206 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 322 Losses. #children is 322
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9927 Losses. #children is 10007
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 12 Losses. #children is 12
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 24 Losses. #children is 24
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8808 Losses. #children is 10009
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9898 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6965 Wins and 2741 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 39 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 3 Losses. #children is 3
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9785 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4844 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1552 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 3604 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4059 Wins and 5810 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9775 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2527 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9791 Losses. #children is 10005
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 204 Losses. #children is 204
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 28 Losses. #children is 28
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 18 Losses. #children is 18
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 10 Losses. #children is 10
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4705 Wins and 5183 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9471 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9793 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1431 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 90 Losses. #children is 90
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 6 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2 Wins and 9 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 176 Losses. #children is 176
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9815 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2 Wins and 9545 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9658 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9789 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9871 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 6745 Losses. #children is 10004
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 24 Losses. #children is 24
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2465 Wins and 7316 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9784 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9754 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8469 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 2 Losses. #children is 2
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 21 Losses. #children is 21
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2 Wins and 5002 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 606 Losses. #children is 606
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9855 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6041 Wins and 3255 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6261 Wins and 3513 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 12 Losses. #children is 12
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 4 Losses. #children is 4
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9840 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7435 Wins and 2229 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9815 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 2 Losses. #children is 2
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 7599 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 66 Losses. #children is 66
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 808 Wins and 9 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5876 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2475 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9799 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8617 Wins and 1199 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4488 Wins and 5305 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1 Wins and 1336 Losses. #children is 10004
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 18 Losses. #children is 18
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9593 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9920 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2766 Wins and 7078 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2496 Wins and 41 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1 Wins and 0 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 7364 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9682 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9942 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8146 Wins and 1670 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9740 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 48 Losses. #children is 48
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9205 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4313 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9764 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 33 Losses. #children is 33
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7420 Wins and 1940 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 3723 Wins and 5695 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 6 Losses. #children is 6
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9835 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 4 Losses. #children is 4
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 450 Losses. #children is 450
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9952 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9892 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 703 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5207 Wins and 4607 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 31 Losses. #children is 31
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2837 Wins and 6853 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 8 Losses. #children is 8
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9947 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9886 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8977 Wins and 802 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9808 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 6211 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 3 Wins and 2150 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 7409 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 3 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9922 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 861 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 792 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9858 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 703 Wins and 532 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7093 Wins and 2543 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 24 Losses. #children is 24
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9791 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 102 Losses. #children is 102
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8417 Wins and 1381 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5330 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6591 Wins and 3277 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9843 Losses. #children is 10004
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 85 Losses. #children is 85
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9886 Losses. #children is 10004
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 52 Losses. #children is 52
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2662 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9719 Wins and 25 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6550 Wins and 3239 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 268 Losses. #children is 268
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 16 Losses. #children is 16
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 434 Wins and 9281 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 178 Losses. #children is 178
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9874 Losses. #children is 10005
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 43 Losses. #children is 43
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 80 Losses. #children is 80
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1466 Wins and 10 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9786 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8979 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 3231 Wins and 6457 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 72 Losses. #children is 72
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2814 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5764 Wins and 3764 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8305 Wins and 1405 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 4 Losses. #children is 4
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2385 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9893 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9782 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 224 Wins and 738 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4168 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9824 Losses. #children is 10008
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 40 Losses. #children is 40
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 12 Losses. #children is 10008
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 64 Losses. #children is 64
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9847 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 20 Losses. #children is 20
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 28 Losses. #children is 28
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 305 Wins and 9432 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9738 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9838 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 8 Losses. #children is 8
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2714 Wins and 4742 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 17 Losses. #children is 17
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2106 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9436 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 3692 Wins and 5868 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 545 Losses. #children is 545
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1 Wins and 9381 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 161 Wins and 9613 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8939 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1727 Wins and 836 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9004 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9955 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9340 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 792 Wins and 9082 Losses. #children is 10005
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 1840 Losses. #children is 1840
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1062 Wins and 533 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 72 Losses. #children is 72
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6344 Wins and 3510 Losses. #children is 10004
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 142 Losses. #children is 142
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9799 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9847 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 6351 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 26 Losses. #children is 26
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9773 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9789 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 712 Losses. #children is 712
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6541 Wins and 3183 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 384 Losses. #children is 384
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9749 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9677 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 156 Losses. #children is 156
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9929 Losses. #children is 10007
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 34 Losses. #children is 34
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2653 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 653 Wins and 13 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6882 Wins and 2953 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 152 Losses. #children is 152
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2861 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9829 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9285 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8347 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9251 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 114 Losses. #children is 114
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2044 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9966 Losses. #children is 10007
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 6 Losses. #children is 6
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 530 Losses. #children is 530
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9682 Losses. #children is 10005
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 17 Losses. #children is 17
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9760 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 662 Wins and 3391 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1999 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 32 Losses. #children is 32
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9842 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4948 Wins and 2676 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 376 Losses. #children is 376
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9682 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9876 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9839 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 15 Losses. #children is 15
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8559 Wins and 1297 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6411 Wins and 3212 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 20 Losses. #children is 20
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4406 Wins and 4891 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9914 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 118 Losses. #children is 118
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9874 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5 Wins and 62 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8908 Wins and 864 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9916 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 1161 Losses. #children is 1161
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 107 Losses. #children is 107
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8360 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9822 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 336 Wins and 9425 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 58 Losses. #children is 58
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8129 Wins and 1761 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9689 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1508 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 1361 Losses. #children is 1361
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9737 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 160 Losses. #children is 160
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 9 Losses. #children is 9
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 28 Losses. #children is 28
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9661 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 3 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9805 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9667 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 3586 Wins and 6253 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9934 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 7451 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9876 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9904 Losses. #children is 10004
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 8 Losses. #children is 8
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 16 Losses. #children is 16
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7308 Wins and 2459 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9810 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 22 Losses. #children is 22
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5399 Wins and 4357 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 112 Losses. #children is 112
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9855 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8878 Wins and 478 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9109 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5 Wins and 9166 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9770 Losses. #children is 10007
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 322 Losses. #children is 322
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4992 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8123 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7903 Wins and 1953 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5769 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8578 Wins and 972 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 156 Losses. #children is 156
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 100 Losses. #children is 100
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2 Wins and 9460 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8767 Wins and 978 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 6 Losses. #children is 6
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 147 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 11 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2320 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2 Wins and 9739 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 53 Losses. #children is 53
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9726 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 32 Wins and 9636 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9422 Wins and 253 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9795 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5902 Wins and 3885 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9883 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9914 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7414 Wins and 2423 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9855 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 42 Wins and 2789 Losses. #children is 10004
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 54 Losses. #children is 54
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9852 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9811 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 3400 Wins and 6527 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 16 Losses. #children is 16
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9709 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9622 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9852 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 119 Losses. #children is 119
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 18 Losses. #children is 18
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9821 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8171 Wins and 1495 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9436 Wins and 19 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 4 Losses. #children is 4
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 79 Losses. #children is 79
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9383 Wins and 131 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4 Wins and 23 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9260 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2678 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4817 Wins and 5126 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7552 Wins and 2294 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 3957 Wins and 5729 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 40 Losses. #children is 40
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 28 Losses. #children is 28
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8670 Wins and 1115 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9773 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9927 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 16 Losses. #children is 16
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9857 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9129 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 26 Losses. #children is 26
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 2 Losses. #children is 2
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9860 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9928 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8287 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9932 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1 Wins and 9601 Losses. #children is 10005
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 720 Losses. #children is 720
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9728 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9724 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1250 Wins and 8545 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9758 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 11 Losses. #children is 11
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 154 Losses. #children is 154
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 26 Losses. #children is 26
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9962 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 763 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4453 Wins and 5121 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 134 Losses. #children is 134
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9839 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 35 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9515 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9821 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 6940 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9653 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9718 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8503 Wins and 1176 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 66 Losses. #children is 66
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 54 Losses. #children is 54
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 120 Losses. #children is 120
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 7 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9750 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9846 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4004 Wins and 1489 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9911 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 9 Losses. #children is 9
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5775 Wins and 3922 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 94 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5292 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9823 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9710 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1773 Wins and 35 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 16 Losses. #children is 16
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1685 Wins and 7152 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 4 Losses. #children is 4
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7575 Wins and 2020 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9925 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 3628 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 6 Losses. #children is 6
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1510 Wins and 2052 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 96 Wins and 9823 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 0 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5893 Wins and 3935 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 26 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5895 Wins and 3877 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 3 Losses. #children is 3
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9955 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8972 Wins and 624 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9389 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1698 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 3 Losses. #children is 3
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 3 Losses. #children is 3
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 3699 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 36 Losses. #children is 36
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9904 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9895 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9859 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1 Wins and 9353 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9074 Wins and 573 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9858 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7192 Wins and 2320 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4333 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9816 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 1266 Losses. #children is 1266
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 340 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 18 Losses. #children is 18
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9869 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 54 Losses. #children is 54
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9716 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1350 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9933 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2446 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 48 Losses. #children is 48
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 2 Losses. #children is 2
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 33 Losses. #children is 33
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7138 Wins and 2488 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4668 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9914 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5942 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9951 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4176 Wins and 5594 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9313 Wins and 350 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9137 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9871 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7064 Wins and 2633 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9858 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9874 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9337 Wins and 281 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 88 Losses. #children is 88
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8622 Wins and 1266 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 138 Wins and 9690 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9912 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9895 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4936 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 59 Losses. #children is 59
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 3961 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 6 Losses. #children is 6
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 128 Losses. #children is 128
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9770 Losses. #children is 10008
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 8 Losses. #children is 8
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9372 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1064 Wins and 8781 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 756 Losses. #children is 756
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5616 Wins and 3634 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2321 Wins and 7494 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4581 Wins and 1688 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 8 Losses. #children is 8
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5523 Wins and 4295 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9741 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9887 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7397 Wins and 2210 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7789 Wins and 1871 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5792 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5987 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1738 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9589 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2982 Wins and 6880 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9949 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9895 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 20 Losses. #children is 20
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1 Wins and 9693 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 589 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9869 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9120 Wins and 592 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9855 Losses. #children is 10004
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 12 Losses. #children is 12
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 9 Losses. #children is 9
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9952 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9752 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6530 Wins and 3155 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9950 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9925 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9928 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4221 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1450 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9839 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9783 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9890 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9584 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 238 Losses. #children is 238
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 6599 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 7942 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9933 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6786 Wins and 2825 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5544 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 3 Wins and 2268 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1499 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9919 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2619 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5580 Wins and 958 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9689 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9959 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 8 Losses. #children is 8
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 84 Losses. #children is 84
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9830 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9727 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8021 Wins and 1712 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9840 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9698 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9672 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2220 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5539 Wins and 4281 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9967 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2862 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9885 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9880 Losses. #children is 10013
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9810 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 8 Losses. #children is 8
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5509 Wins and 1996 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8296 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9372 Wins and 224 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5510 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9507 Wins and 206 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9626 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 7885 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 543 Wins and 9152 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 9 Losses. #children is 9
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6603 Wins and 3234 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5573 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 44 Losses. #children is 44
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 37 Losses. #children is 37
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2820 Wins and 7022 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1066 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 82 Losses. #children is 82
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 732 Wins and 9098 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9915 Losses. #children is 10004
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 1 Losses. #children is 1
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 8 Losses. #children is 8
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 3152 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7234 Wins and 2534 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 19 Losses. #children is 19
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9260 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 47 Losses. #children is 47
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8464 Wins and 1429 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 8 Losses. #children is 8
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6596 Wins and 3164 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4977 Wins and 4403 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9939 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8127 Wins and 1646 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 956 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5435 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 6156 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4110 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1276 Wins and 2302 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 99 Losses. #children is 99
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8870 Wins and 920 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2 Wins and 3 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 3995 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9920 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9916 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 102 Losses. #children is 10004
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 196 Losses. #children is 196
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9932 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 628 Wins and 8796 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9928 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8941 Wins and 812 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 4 Losses. #children is 4
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1 Wins and 0 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 6 Losses. #children is 6
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 7265 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 64 Losses. #children is 64
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 0 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 197 Wins and 16 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1109 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9846 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9266 Losses. #children is 10011
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2325 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 6346 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9657 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 132 Wins and 9738 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9181 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9775 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 46 Losses. #children is 46
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 6552 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 6 Losses. #children is 6
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 15 Losses. #children is 15
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 9 Losses. #children is 9
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 652 Losses. #children is 652
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4749 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9711 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1931 Wins and 7906 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 800 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9346 Wins and 45 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 6280 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 280 Losses. #children is 280
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9887 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5190 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9863 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9812 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 3323 Losses. #children is 10008
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1 Wins and 2519 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9829 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9938 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9628 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 16 Losses. #children is 16
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 237 Losses. #children is 237
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9868 Losses. #children is 10005
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 22 Losses. #children is 22
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 4079 Wins and 5816 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9929 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9925 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9958 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2886 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6 Wins and 23 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9587 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 3 Losses. #children is 3
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9885 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9750 Wins and 114 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 813 Wins and 898 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 536 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8591 Wins and 907 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9801 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9926 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 3728 Losses. #children is 3728
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 4 Losses. #children is 4
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 20 Losses. #children is 20
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8646 Wins and 992 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9872 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1791 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6898 Wins and 2833 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 1 Losses. #children is 1
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 74 Losses. #children is 74
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 13 Losses. #children is 13
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 3 Losses. #children is 3
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 12 Losses. #children is 12
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9633 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 4 Losses. #children is 4
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 508 Wins and 3815 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 4 Losses. #children is 4
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9971 Losses. #children is 10002
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 8 Losses. #children is 8
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9743 Losses. #children is 10005
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 150 Losses. #children is 150
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 2560 Losses. #children is 2560
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9877 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 311 Losses. #children is 311
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9838 Losses. #children is 10005
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 8 Losses. #children is 8
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1174 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 6270 Wins and 3573 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5068 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 1136 Losses. #children is 1136
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9242 Wins and 403 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4638 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8614 Wins and 1001 Losses. #children is 10007
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 11 Losses. #children is 11
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 3404 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9778 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 3485 Wins and 6179 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9881 Losses. #children is 10005
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 15 Losses. #children is 15
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4343 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 2 Wins and 3323 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5629 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 24 Losses. #children is 24
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9840 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8361 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9644 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8905 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7899 Wins and 1767 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 48 Losses. #children is 48
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 798 Losses. #children is 10005
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 101 Losses. #children is 101
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9871 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 6 Losses. #children is 6
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9710 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9563 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 2 Losses. #children is 2
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 20 Wins and 3882 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 96 Losses. #children is 96
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2840 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5522 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 10 Losses. #children is 10
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8274 Wins and 1594 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9870 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9861 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9646 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9898 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 801 Wins and 296 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 9734 Wins and 81 Losses. #children is 10004
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 1011 Losses. #children is 1011
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2541 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5 Wins and 8203 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 28 Losses. #children is 28
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 1238 Losses. #children is 1238
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9534 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 7217 Wins and 2638 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8085 Wins and 1780 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9944 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9452 Losses. #children is 10006
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8089 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 540 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 19 Losses. #children is 10006
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 50 Losses. #children is 50
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9683 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9719 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8840 Wins and 891 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9513 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 77 Losses. #children is 10004
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 544 Losses. #children is 544
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8928 Wins and 908 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9776 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9866 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 5387 Wins and 4456 Losses. #children is 10003
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9646 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8154 Wins and 1480 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9915 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4463 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9840 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 3 Wins and 5986 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9769 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 2911 Losses. #children is 10002
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8187 Wins and 1480 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 6654 Losses. #children is 10001
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9589 Losses. #children is 10007
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 1022 Wins and 8748 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 8649 Wins and 1112 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 9897 Losses. #children is 10005
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 437 Wins and 9130 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 140 Losses. #children is 140
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 1889 Losses. #children is 10007
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 20 Losses. #children is 20
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 24 Losses. #children is 24
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 8345 Losses. #children is 10003
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 24 Losses. #children is 24
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 5893 Losses. #children is 10001
+NULL parent. End of play.
+End of play - ran all branches.
+RunSim - 0 Wins and 51 Losses. #children is 51
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 32 Wins and 9709 Losses. #children is 10004
+At 10000 children. Stopping.
+End of play - max # of children
+RunSim - 0 Wins and 4347 Losses. #children is 10001
+Percent of deals that succeed in a winning hand is %26
+Percent of paths that succeed in a winning hand is %55
